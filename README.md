@@ -9,7 +9,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=regiravi&show_icons=true&theme=radical)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-regiravi.vercel.app/api?username=regiravi&show_icons=true&theme=radical)
