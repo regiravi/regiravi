@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=regiravi&show_icons=true&theme=radical)
 
